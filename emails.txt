@@ -1,0 +1,14 @@
+DSA
+
+Package translator
+
+translator – Easy translation of strings
+
+Comprehensive Easy Translation 
+
+ translations – Internationalisation of LATEX2ε packages
+
+This package (once part of the exsheets package), provides a framework for providing multilingual features to a LATEX package.
+
+The package has its own basic dictionaries for English, Brazilian, Catalan, Dutch, French, German and Spanish; it aims to use translation material for English, Dutch, French, German, Italian, Spanish, Catalan, Turkish, Croatian, Hungarian, Danish and Portuguese from babel or polyglossia if either is in use in the document. (Additional languages from the multilingual packages may be possible: ask the author.
+         
